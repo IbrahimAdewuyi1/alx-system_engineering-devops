@@ -1,2 +1,2 @@
 #!/bin/bash
-less file122
+cat /etc/passwd
